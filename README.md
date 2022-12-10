@@ -1,4 +1,4 @@
-# UNDER CONSTRUCTION
+## UNDER CONSTRUCTION
 
 ### Technologies used REACT
 
@@ -12,7 +12,7 @@
  ---
 
 ## About the project
-The project was made to learn how to use firebase together with my react js projects. In it I learned to configure the database, search, register, log in and authenticate the user.
+The project was made to learn how to use firebase together with my react js projects. In it I learned to configure the database, search, register, log in and authenticate the user.Project developed for study!!
 
 
 ### Project Link: not deployed yet
