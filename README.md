@@ -1,4 +1,4 @@
-## UNDER CONSTRUCTION
+ UNDER CONSTRUCTION (lacks responsiveness, style and deploy)
 
 ### Technologies used REACT
 
