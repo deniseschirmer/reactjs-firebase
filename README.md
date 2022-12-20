@@ -4,11 +4,11 @@
 
 <h1 style="text-align: center; font-weight: bold;">Form in React js + Firebase</h1>
 
-## Demo 📸
+<!-- ## Demo 📸
 
 <div align="center" >
    <img src="./github/" alt="demo-mobile" height="425">
-</div>
+</div> -->
  ---
 
 ## About the project
